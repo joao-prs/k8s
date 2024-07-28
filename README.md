@@ -41,8 +41,9 @@ Siga os passos simples do arquivo `history.sh` corretamente e terá um cluster k
 - <a href="https://github.com/joao-prs/kubernetes/blob/main/doc/kubernetes.extras.md">Conteúdo extra.</a>
 
 > [!TIP]
-> Este repositório está sendo constantemente atualizado, por favor desconsidere a desorganização. Navegue entre os READMEs deste repositório para mais guias. 😊
+> Este repositório está sendo constantemente atualizado, por favor desconsidere a desorganização. 😊
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joao-prs/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joao-prs/1" alt="Recent Article 1">
 
-> Repositório em construção ⚙️
+
+<p align="center">Repositório em construção ⚙️</p>
