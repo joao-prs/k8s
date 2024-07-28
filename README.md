@@ -42,8 +42,8 @@ Siga os passos simples do arquivo `history.sh` corretamente e terá um cluster k
 
 > [!TIP]
 > Este repositório está sendo constantemente atualizado, por favor desconsidere a desorganização. 😊
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joao-prs/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joao-prs/1" alt="Recent Article 1">
+<p align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joao-prs/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joao-prs/1" alt="Recent Article 1"></a></p>
 
 
 <p align="center">Repositório em construção ⚙️</p>
